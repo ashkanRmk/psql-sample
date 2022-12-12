@@ -5,3 +5,6 @@ You can **download** sample database **[here](https://github.com/ashkanRmk/psql-
 
 ## ER Diagram
 ![alt text](postgresql-sample-database-diagram.jpg "ER Diagram")
+
+## Cardinality Helper
+![alt text](cardinality.jpg "Cardinality")
